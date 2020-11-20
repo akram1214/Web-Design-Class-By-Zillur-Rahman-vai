@@ -764,6 +764,152 @@
         </div>
       </div>
     </section>
+    
+        <section class="blog-section py-5">
+      <div class="container">
+
+        <div class="row mb-5">
+          <div class="col-lg-2"></div>
+          <div class="col-lg-8">
+            <div class="finix-text text-center ">
+              <h6>Recent news</h6>
+              <h2>Success story posts</h2>
+              <p class="w-75 m-auto">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            </div>
+          </div>
+          <div class="col-lg-2"></div>
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-4">
+            <div class="blog-item">
+              <div class="blog-thubnail">
+                <img src="img/image1.jpg" alt="">
+              </div>
+              <div class="blog-content">
+                <p>July 05, 2020</p>
+                <h3><a href="#">Financing loans available to small businesses</a></h3>
+                <a href="#">Read More</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4">
+            <div class="blog-item">
+              <div class="blog-thubnail">
+                <img src="img/image2.jpg" alt="">
+              </div>
+              <div class="blog-content">
+                <p>July 04, 2020</p>
+                <h3><a href="#">5 Ways you can prepare your business for success</a></h3>
+                <a href="#">Read More</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4">
+            <div class="blog-item">
+              <div class="blog-thubnail">
+                <img src="img/image3.jpg" alt="">
+              </div>
+              <div class="blog-content">
+                <p>July 03, 2020</p>
+                <h3><a href="#">Tips for saving money and better guide for investment</a></h3>
+                <a href="#">Read More</a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <section class="footer">
+      <div class="footer-top py-5">
+        <div class="container">
+          <div class="row">
+
+            <div class="col-lg-3">
+              <div class="footer-wiget">
+                <img src="img/logo2.png" alt="">
+                <p class="mt-4">Lorem ipsum dolor sit amet, consec tetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <div class="wiget-social">
+                  <ul>
+                    <li><span>Follow us:</span></li>
+                    <li><a href="#"> <i class="fab fa-twitter"></i></a></li>
+                    <li><a href="#"> <i class="fab fa-instagram"></i></a></li>
+                    <li><a href="#"> <i class="fab fa-facebook"></i></a></li>
+                    <li><a href="#"> <i class="fab fa-linkedin"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3">
+              <div class="footer-wiget">
+               <h3>Quick Links</h3>
+               <ul>
+                 <li><a href="#">About</a></li>
+                 <li><a href="#">Our Performance</a></li>
+                 <li><a href="#">Help (FAQ)</a></li>
+                 <li><a href="#">Blog</a></li>
+                 <li><a href="#">Contact</a></li>
+               </ul>
+              </div>
+            </div>
+            <div class="col-lg-3">
+              <div class="footer-wiget">
+               <h3>Other Resources</h3>
+               <ul>
+                 <li><a href="#">Support</a></li>
+                 <li><a href="#">Privacy Policy</a></li>
+                 <li><a href="#">Terms of Service</a></li>
+                 <li><a href="#">Business Loans</a></li>
+                 <li><a href="#">Loan Services</a></li>
+               </ul>
+              </div>
+            </div>
+            <div class="col-lg-3">
+              <div class="footer-wiget">
+               <h3>Contact Us</h3>
+               <div class="footer-contact">
+
+                 <div class="footer-contect-item d-flex">
+                   <span><i class="fas fa-map-marker-alt"></i></span>
+                   <p>6890 Blvd, The Bronx, NY 1058 New York, USA</p>
+                 </div>
+                 <div class="footer-contect-item d-flex">
+                   <span><i class="fas fa-envelope"></i></span>
+                   <div class="contect-email ">
+                    <a href="mailto:hello@finix.com"> hello@finix.com</a>
+                    <a href="#">Skype: example</a>
+                   </div>
+                 </div>
+                 <div class="footer-contect-item d-flex">
+                   <span><i class="fas fa-phone-volume"></i></span>
+                   <div class="contect-number">
+                    <a href="tel:+15143125678"> +1 (514) 312-5678</a>
+                    <a href="tel:+15143126688"> +1 (514) 312-6688</a>
+                   </div>
+                 </div>
+
+               </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+      <div class="footer-bottom py-4">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12">
+              <div class="footer-copyright text-center">
+                <p>Copyright @2020 Finix. Designed By <a href="http://www.google.com">Akram Hoshen</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
     <!-- Optional JavaScript -->
     <!-- Popper.js first, then Bootstrap JS -->
